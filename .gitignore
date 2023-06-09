@@ -1,0 +1,4 @@
+.vscode
+postgresdata
+mongodata
+.DS_Store
